@@ -1,0 +1,103 @@
+*********************PHONEBOOK*************************
+
+List of operations on 'contact details' in phonebook :: 
+Type the operation 'No.' : 
+1. Add :  	2. Display  	3. Sort   	4.Exit
+ 
+Enter choice-> 
+1
+Enter name : 
+asd
+Enter email id : 
+asd
+Enter mobile no. : 
+546
+Name : asd is added in contact list 
+
+
+List of operations on 'contact details' in phonebook :: 
+Type the operation 'No.' : 
+1. Add :  	2. Display  	3. Sort   	4.Exit
+ 
+Enter choice-> 
+1
+Enter name : 
+gfgr
+Enter email id : 
+fgf
+Enter mobile no. : 
+45466454
+Name : gfgr is added in contact list 
+
+
+List of operations on 'contact details' in phonebook :: 
+Type the operation 'No.' : 
+1. Add :  	2. Display  	3. Sort   	4.Exit
+ 
+Enter choice-> 
+2
+
+Contact details : 1
+Entered name : asd
+Entered email id : asd
+Entered mobile no : 546
+
+Contact details : 2
+Entered name : gfgr
+Entered email id : fgf
+Entered mobile no : 45466454
+
+
+
+List of operations on 'contact details' in phonebook :: 
+Type the operation 'No.' : 
+1. Add :  	2. Display  	3. Sort   	4.Exit
+ 
+Enter choice-> 
+3
+Select the field to be sorted :: 
+1. Name :  	2. Email   	3. Mobileno :     
+3
+Field selected : Mobileno 
+Select Method of Sorting :: 
+1. Bubble sort  	2. Selection sort 	3. Insertion sort 
+1
+
+Contact details : 1
+Entered name : asd
+Entered email id : asd
+Entered mobile no : 546
+
+Contact details : 2
+Entered name : gfgr
+Entered email id : fgf
+Entered mobile no : 45466454
+
+
+
+List of operations on 'contact details' in phonebook :: 
+Type the operation 'No.' : 
+1. Add :  	2. Display  	3. Sort   	4.Exit
+ 
+Enter choice-> 
+2
+
+Contact details : 1
+Entered name : asd
+Entered email id : asd
+Entered mobile no : 546
+
+Contact details : 2
+Entered name : gfgr
+Entered email id : fgf
+Entered mobile no : 45466454
+
+
+
+List of operations on 'contact details' in phonebook :: 
+Type the operation 'No.' : 
+1. Add :  	2. Display  	3. Sort   	4.Exit
+ 
+Enter choice-> 
+4
+Exited

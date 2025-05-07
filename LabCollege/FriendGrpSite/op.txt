@@ -1,0 +1,280 @@
+Welcome to FriendlyPlanet!
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 4
+Enter your name: san
+User not found in the network.
+
+FriendlyPlanet features :: 
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 3
+Enter your name: sad
+No posts found for user sad
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 5
+Enter your name (entry person's name): tom
+Enter user's name (to follow): sam
+tom is now following sam
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 1
+Enter your name: sam
+Enter friend's name: tom
+Friend added successfully!
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 2
+Enter your name: phil
+Create post: hello world
+Post created successfully!
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 5
+Enter your name (entry person's name): zen
+Enter user's name (to follow): yen
+zen is now following yen
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 5
+Enter your name (entry person's name): sam
+Enter user's name (to follow): tom
+sam is now following tom
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 6
+Enter user's name: tom
+Followers of user tom (1 followers):
+sam
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 6
+Enter user's name: sam
+Followers of user sam (1 followers):
+tom
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 2
+Enter your name: sma
+Create post: world is cool
+Post created successfully!
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 2
+Enter your name: sam
+Create post: elon is workaholic
+Post created successfully!
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 2
+Enter your name: i hv insn work ethic
+Create post: Post created successfully!
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 3
+Enter your name: sam
+Posts for user sam:
+elon is workaholic (Likes: 0)
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 2
+Enter your name: sam
+Create post: i hv insane work ethic , work like hell
+Post created successfully!
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 3
+Enter your name: sam
+Posts for user sam:
+elon is workaholic (Likes: 0)
+i hv insane work ethic , work like hell (Likes: 0)
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 7
+Enter your name (entry person's name): tom
+Enter user's name (whose posts to like): sam
+Choose a post to like of user sam -
+1: elon is workaholic
+2: i hv insane work ethic , work like hell
+Enter the post number to like: 1
+tom liked the post of user: sam!
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 3
+Enter your name: sam
+Posts for user sam:
+elon is workaholic (Likes: 1)
+i hv insane work ethic , work like hell (Likes: 0)
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 8
+Enter your name: sam
+Likes on sam's posts:
+elon is workaholic (Likes: 1)
+i hv insane work ethic , work like hell (Likes: 0)
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 4
+Enter your name: sam
+Mutual connections for user sam:
+tom
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 1
+Enter your name: phil
+Enter friend's name: sam
+Friend added successfully!
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 4
+Enter your name: sam
+Mutual connections for user sam:
+tom
+phil
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 6
+Enter user's name: sam
+Followers of user sam (1 followers):
+tom
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 5
+Enter your name (entry person's name): phil
+Enter user's name (to follow): sam
+phil is now following sam
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 6
+Enter user's name: sam
+Followers of user sam (2 followers):
+tom
+phil
+
+FriendlyPlanet features ::
+1- Add friends           2- Create post
+3- See posts             4- See mutual connections
+5- Follow user           6- See followers
+7- Like post             8- See likes
+9- Exit
+Enter your choice: 9
+Exiting...
